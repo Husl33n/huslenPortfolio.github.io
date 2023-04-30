@@ -27,7 +27,7 @@ const Intro = () => {
             </a>
           </div>
           <div class="hidden lg:mt-0 lg:col-span-5 lg:flex md:flex-1 animate-float_X mix-blend-darken">
-            <img src="src\assets\intro_albert.png" alt="mockup" className="" />
+            <img src="src\assets\albert.png" alt="mockup" className="" />
           </div>
         </div>
         

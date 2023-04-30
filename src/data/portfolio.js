@@ -12,9 +12,9 @@ export default [
       link: 'https://www.youtube.com/playlist?list=PL4jZmDxmdVU2JmI6L7_KQYxg7QSdBer5d',
    },
    {
-      title: 'Nerf Gun',
-      imgUrl: 'assets/ai-nerf-gun.jpg',
-      stack: ['Python', 'C++', 'Robotic'],
-      link: 'https://www.youtube.com/',
+      title: 'Хүслэн Portfolio',
+      imgUrl: 'assets/huslenWeb.png',
+      stack: ['HTML', 'CSS'],
+      link: 'https://husl33n.github.io/huslenFIrstPortfolio/#',
    }
 ]
