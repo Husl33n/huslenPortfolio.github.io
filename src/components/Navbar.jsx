@@ -31,7 +31,7 @@ import { styles } from "../styles";
               />
             </span>
           </div>
-          <ul className="md:flex gap-8 z-[-1] md:z-auto md:static absolute md:py-0 py-4 md:pl-0 pl-7 md:opacity-100 opacity-0  transition-all ease-in duration-500">
+          <ul className="md:flex gap-8 z-[-1] md:z-auto md:static absolute md:py-0 py-4 md:pl-0 pl-7 md:opacity-100 opacity-100  transition-all ease-in duration-500">
             <div className="flex flex-col items-center md:flex-row md:gap-8">
               <li id="Home" className="my-4">
                 <a
