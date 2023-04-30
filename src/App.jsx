@@ -9,7 +9,6 @@ import Experience from "./components/Experience";
 import "./styles/tailwind.css";
 import Skill from "./components/Skill";
 
-
 const App = () => {
   return (
     <>
@@ -19,8 +18,8 @@ const App = () => {
           <div className="">
             <Navbar />
             <div className=" overflow-x-hidden opacity-100">
-              <div className="flex items-center justify-center flex-col h-auto w-screen mx-auto ">
-                <Intro  />
+              <div className="flex items-center justify-center flex-col h-auto w-screen mx-auto sm:px-6">
+                <Intro />
                 <Portfolio />
                 <Timeline />
                 <Experience />
@@ -34,6 +33,6 @@ const App = () => {
       </div>
     </>
   );
-}
+};
 
 export default App;

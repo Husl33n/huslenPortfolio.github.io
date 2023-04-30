@@ -3,7 +3,7 @@ import Title from "./Title";
 
 const Skill = () => {
   return (
-    <div className="mb-20 flex flex-col items-center justify-center md:w-7/12">
+    <div className="mb-20 mx-6 flex flex-col items-center justify-center md:w-7/12">
       <Title>Мэдлэг</Title>
       <div className="flex flex-1 flex-row items-center justify-center flex-wrap gap-4">
         <div className=" bg-stone-200 shadow-2xl p-5 rounded-full">
