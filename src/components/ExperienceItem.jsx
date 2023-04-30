@@ -1,6 +1,6 @@
 import React from 'react';
 
-const TimelineItem = ({ year, title, duration, details }) => {
+const ExperienceItem = ({ year, title, duration, details }) => {
 	return (
 		<ol className="flex flex-col md:flex-row relative border-l border-stone-600">
 			<li className="mb-10 ml-4">
@@ -20,4 +20,4 @@ const TimelineItem = ({ year, title, duration, details }) => {
 	);
 };
 
-export default TimelineItem;
+export default ExperienceItem;

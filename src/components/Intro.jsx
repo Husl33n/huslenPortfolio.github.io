@@ -26,7 +26,7 @@ const Intro = () => {
               Надтай холбогдох
             </a>
           </div>
-          <div class="hidden lg:mt-0 lg:col-span-5 lg:flex md:flex-1 animate-float_X mix-blend-darken">
+          <div class="hidden lg:mt-0 lg:col-span-5 lg:flex md:flex-1 animate-float_X">
             <img src="src\assets\albert.png" alt="mockup" className="" />
           </div>
         </div>

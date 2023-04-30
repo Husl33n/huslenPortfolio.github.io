@@ -5,15 +5,17 @@ import Footer from "./components/Footer";
 import Portfolio from "./components/Portfolio";
 import Timeline from "./components/Timeline";
 import Navbar from "./components/Navbar";
-
+import Experience from "./components/Experience";
 import "./styles/tailwind.css";
+import Skill from "./components/Skill";
+
 
 const App = () => {
   return (
     <>
       {/* bg-[url(src/assets/blob1.svg)] bg-cover bg-[50%] object-cover */}
       <div className="flex items-center justify-between overflow-x-hidden bg-stone-100 text-stone-900 min-h-screen font-inter">
-        <div className="bg-center bg-dotted-spacing-4 bg-dotted-stone-400 hover:bg-dotted-spacing-16 transition-all duration-[25000ms] ease-in-out">
+        <div className="bg-center bg-dotted-spacing-4 hover:bg-dotted-spacing-16 bg-dotted-stone-400 transition-all duration-[25000ms] ease-in-out">
           <div className="">
             <Navbar />
             <div className=" overflow-x-hidden opacity-100">
@@ -21,6 +23,8 @@ const App = () => {
                 <Intro  />
                 <Portfolio />
                 <Timeline />
+                <Experience />
+                <Skill />
               </div>
               <Contact />
               <Footer />

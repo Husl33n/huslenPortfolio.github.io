@@ -1,16 +1,16 @@
 import React from "react";
-import TimelineItem from "./TimelineItem";
-import timeline from "../data/timeline";
+import ExperienceItem from "./ExperienceItem";
+import experience from "../data/experience";
 import Title from "./Title";
 
-const Timeline = () => {
+const Experience = () => {
   return (
     <>
     <div className="px-8 flex flex-col md:flex-row justify-center my-20">
       <div className="w-full md:w-7/12 ">
-        <Title>Боловсрол</Title>
-        {timeline.map((item) => (
-          <TimelineItem
+        <Title>Туршлага</Title>
+        {experience.map((item) => (
+          <ExperienceItem
             year={item.year}
             title={item.title}
             duration={item.duration}
@@ -23,4 +23,4 @@ const Timeline = () => {
   );
 };
 
-export default Timeline;
+export default Experience;
