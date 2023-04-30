@@ -1,33 +1,40 @@
 export default [
    {
-      year: 'Today',
-      title: 'Youtube Content Creator',
-      duration: '6 years',
-      details: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum assumenda at in unde soluta fugit rerum ad ex error porro. elit. Illum assumenda at in unde soluta fugit rerum ad ex error porro.'
+      year: 'Одоо',
+      title: 'Ажил горилогч',
+      duration: '-',
+      details: 'Ирээдүйд програм хөгжүүлэлтийн салбарт гар бие оролцон ажиллах зорилготой. Хөгжүүлэлтийн байгууллагад дадлагажин туршлагажиж, цаашид үргэжлүүлэн үндсэн ажилтанаар ажиллах хүсэлтэй байгаа.'
+   },
+   
+   {
+      year: '2019 - 2023',
+      title: 'Компьютер Програм Хангамж - Монголын Үндэсний Их Сургууль',
+      duration: '4 жил',
+      details: 'Барилгын Политехник Коллежид суралцсаны дараа өөрийн сонирхол, хүслийн дагуу Програм хангамжийн мэргэжлээр МҮИС-д элсэн орч суралцсан. 1-2 дугаар курсын хугацаанд анхан шатны програмчлал, алгоримт C, C++ мөн Объект хандалтат програмчлал Java, C#-г түлхүү үзсэн. 3-4 дүгээр курсын хугацаанд өгөгдлийн сан зохиомж, нууцлал хамгаалалт, вэб хөгжүүлэлтийн програмчлалуудыг үзсэн.'
    },
    {
-      year: 'Today',
-      title: 'Youtube Content Creator',
-      duration: '6 years',
-      details: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum assumenda at in unde soluta fugit rerum ad ex error porro. elit. Illum assumenda at in unde soluta fugit rerum ad ex error porro.'
+      year: '2021 - 2022',
+      title: 'Цэргийн алба - Дотоодын цэргийн 05 дугаар анги',
+      duration: '1 жил',
+      details: 'Жил болгон болдог цэрэг татлагад 3-р курсын оюутан татагдахгүй гэсэн итгэлтэй очсон боловч тухайн үед COVID-19 өвчний эрч суларсан цагдаа, цэргийн орон тоо бага байсан улмаар эрүүл мэндээр тэнцэн Монгол Улсын иргэний үүрэг болсон цэргийн албыг өөрийн биеэр хаасан. Цэргийн албаа хааж байх хугацаандаа Цэргийн ротын бичиг хэрэг хариуцдаг бичээж цэрэг байсан тул 3-р курсээ Онлайнаар суралцан төгссөн.'
    },
    {
-      year: '2018',
-      title: 'Youtube Content Creator',
-      duration: '6 years',
-      details: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum assumenda at in unde soluta fugit rerum ad ex error porro. elit. Illum assumenda at in unde soluta fugit rerum ad ex error porro.'
+      year: '2017 - 2019',
+      title: 'Цахилгаанчин - Укр Цахилгаан',
+      duration: '1 жил 10 сар',
+      details: 'Цахилгаанчин мэргэжлээр суралцаж байх үедээ үйлдвэрлэлийн дадлагаар гарсан Укр Цахилгаан барилгын цахилгааны ажлыг гүйцэтгэдэг байгууллагад үргэжлүүлэн үндсэн ажилтанаар ажилласан.'
    },
    {
-      year: '2016',
-      title: 'Youtube Content Creator',
-      duration: '6 years',
-      details: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum assumenda at in unde soluta fugit rerum ad ex error porro. elit. Illum assumenda at in unde soluta fugit rerum ad ex error porro.'
+      year: '2017 - 2019',
+      title: 'Цахилгааны техникч - Барилгын Политехник Коллеж',
+      duration: '1.5 жил',
+      details: 'Барилгын Политехник Коллежид Цахилгаанчин мэргэжил суралцан үргэлжлүүлэн мэргэжил ахиулан Цахилгааны техникч мэргэжлийг эзэмшсэн. Барилгын Политехник Коллежид суралцах хугацаандаа Autocad, Word, Excel, Powerpoint, Photoshop програмыг гүнзгий суралцаж эзэмшсэн.'
    },
    {
-      year: '2015',
-      title: 'Youtube Content Creator',
-      duration: '6 years',
-      details: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum assumenda at in unde soluta fugit rerum ad ex error porro. elit. Illum assumenda at in unde soluta fugit rerum ad ex error porro.'
+      year: '2015 - 2017',
+      title: 'Цахилгаанчин - Барилгын Политехник Коллеж',
+      duration: '2.5 жил',
+      details: 'Ерөнхий боловсролын 33-р сургуульд 9-р анги хүртэл суралцсан. Үргэжлүүлэн Барилгын Политехник Коллежид Цахилгаанчин мэргэжлээр 2.5 жил суралцан 3.4 голчтой төгссөн. Суралцаж байх үедээ барилгын цахилгаанчны туслах ажилтнаар ажиллан ажлын байран дээр туршлагажсан.'
    },
 
 ]
