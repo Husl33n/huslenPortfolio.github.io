@@ -18,7 +18,7 @@ const App = () => {
           <div className="">
             <Navbar />
             <div className=" overflow-x-hidden opacity-100">
-              <div className="flex items-center justify-center flex-col h-auto w-screen mx-auto sm:px-6">
+              <div className="flex items-center justify-center flex-col h-auto w-screen mx-auto ">
                 <Intro />
                 <Portfolio />
                 <Timeline />

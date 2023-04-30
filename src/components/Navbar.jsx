@@ -11,7 +11,8 @@ const Navbar = () => {
           <div className="flex justify-between items-center gap-4">
             <span className="flex items-center text-4xl font-bold cursor-pointer">
               <img
-                src="https://avataaars.io/?avatarStyle=Circle&topType=LongHairFroBand&accessoriesType=Prescription02&hairColor=BrownDark&facialHairType=MoustacheFancy&facialHairColor=Red&clotheType=BlazerShirt&eyeType=Surprised&eyebrowType=Angry&mouthType=Twinkle&skinColor=Tanned"
+                // src="https://avataaars.io/?avatarStyle=Circle&topType=LongHairFroBand&accessoriesType=Prescription02&hairColor=BrownDark&facialHairType=MoustacheFancy&facialHairColor=Red&clotheType=BlazerShirt&eyeType=Surprised&eyebrowType=Angry&mouthType=Twinkle&skinColor=Tanned"
+                src="assets/avatar.png"
                 className="object-cover h-12"
               />
             </span>
