@@ -5,7 +5,7 @@ import { styles } from "../styles";
 const Intro = () => {
   return (
     <>
-      <section class="mt-28" >
+      <section class="mt-28">
         <div class="md:flex md:gap-4 w-full md:w-9/12 px-8 mx-auto">
           <div class="md:flex-1 mr-auto place-self-center">
             <h1
@@ -13,11 +13,16 @@ const Intro = () => {
             >
               👋Сайн уу! Би бол
             </h1>
-            <h1 class={`${styles.heroHeadText} mb-4 tracking-tight leading-none md:text-5xl`}>Хүслэн</h1>
+            <h1
+              class={`${styles.heroHeadText} mb-4 tracking-tight leading-none md:text-5xl`}
+            >
+              Хүслэн
+            </h1>
             <p
               class={`${styles.heroSubText} max-w-2xl mb-6 font-light text-gray-500 md:text-xl`}
             >
-              Шинэ чадварт суралцан, үнэтэй туршлагыг олж, нөөц боломжоо нээн, эрүүл харилцаа, найз нөхөд бол миний үнэт зүйл.  
+              Шинэ чадварт суралцан, үнэтэй туршлагыг олж, нөөц боломжоо нээн,
+              эрүүл харилцаа, найз нөхөд бол миний үнэт зүйл.
             </p>
             <a
               href="#"
@@ -27,12 +32,10 @@ const Intro = () => {
             </a>
           </div>
           <div class="hidden lg:mt-0 lg:col-span-5 lg:flex md:flex-1 animate-float_X">
-            <img src="src\assets\albert.png" alt="mockup" className="" />
+            <img src="assets/spider2.png" alt="mockup" className="" />
           </div>
         </div>
-        
       </section>
-      
     </>
   );
 };
